@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Opciones</string>
+    <string name="agregar">Agregar</string>
+    <string name="create">Crear</string>
+    <string name="id">Id</string>
+    <string name="login">Login</string>
+    <string name="nombre">nombre</string>
+    <string name="password">Password</string>
+    <string name="users">Usuario</string>
+</resources>
